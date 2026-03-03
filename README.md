@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/master-prompt-framework/blob/61d78233cc0a63f9c8634c229ec25c426a8ee9dd/asset.png)
 # 🧠 PROJECT TITLE
 
 Master Prompt Framework
